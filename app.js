@@ -35,9 +35,6 @@ function listFriends() {
         let li = document.createElement("li");
         li.textContent = friend;
         li.setAttribute("data-index", index);
-/*         li.addEventListener("click", function() {
-            removeFriend(index);
-        }); */
         list.appendChild(li);
     });
 }
