@@ -1,0 +1,7 @@
+function addFriend(){
+
+}
+
+function drawFriends(){
+    
+}
